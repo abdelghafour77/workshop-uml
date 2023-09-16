@@ -364,7 +364,7 @@
 											"top": 326,
 											"width": 167,
 											"height": 13,
-											"text": "+id: int",
+											"text": "-id: int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -381,7 +381,7 @@
 											"top": 341,
 											"width": 167,
 											"height": 13,
-											"text": "+date_reservation: datetime",
+											"text": "-date_reservation: datetime",
 											"horizontalAlignment": 0
 										},
 										{
@@ -398,7 +398,7 @@
 											"top": 356,
 											"width": 167,
 											"height": 13,
-											"text": "+date_arrivee: date",
+											"text": "-date_arrivee: date",
 											"horizontalAlignment": 0
 										},
 										{
@@ -415,7 +415,7 @@
 											"top": 371,
 											"width": 167,
 											"height": 13,
-											"text": "+date_depart: date",
+											"text": "-date_depart: date",
 											"horizontalAlignment": 0
 										},
 										{
@@ -432,7 +432,7 @@
 											"top": 386,
 											"width": 167,
 											"height": 13,
-											"text": "+nbre_nuit: int",
+											"text": "-nbre_nuit: int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -449,7 +449,7 @@
 											"top": 401,
 											"width": 167,
 											"height": 13,
-											"text": "+nbre_chambres: int",
+											"text": "-nbre_chambres: int",
 											"horizontalAlignment": 0
 										}
 									],
@@ -644,7 +644,7 @@
 											"top": 542,
 											"width": 167,
 											"height": 13,
-											"text": "+id: int",
+											"text": "-id: int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -661,7 +661,7 @@
 											"top": 557,
 											"width": 167,
 											"height": 13,
-											"text": "+type: string",
+											"text": "-type: string",
 											"horizontalAlignment": 0
 										},
 										{
@@ -678,7 +678,7 @@
 											"top": 572,
 											"width": 167,
 											"height": 13,
-											"text": "+tarif: double",
+											"text": "-tarif: double",
 											"horizontalAlignment": 0
 										}
 									],
@@ -873,7 +873,7 @@
 											"top": 110,
 											"width": 167,
 											"height": 13,
-											"text": "+id: int",
+											"text": "-id: int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -890,7 +890,7 @@
 											"top": 125,
 											"width": 167,
 											"height": 13,
-											"text": "+nom: string",
+											"text": "-nom: string",
 											"horizontalAlignment": 0
 										},
 										{
@@ -907,7 +907,7 @@
 											"top": 140,
 											"width": 167,
 											"height": 13,
-											"text": "+prenom: string",
+											"text": "-prenom: string",
 											"horizontalAlignment": 0
 										},
 										{
@@ -924,7 +924,7 @@
 											"top": 155,
 											"width": 167,
 											"height": 13,
-											"text": "+telephone: string",
+											"text": "-telephone: string",
 											"horizontalAlignment": 0
 										},
 										{
@@ -941,7 +941,7 @@
 											"top": 170,
 											"width": 167,
 											"height": 13,
-											"text": "+cin: string",
+											"text": "-cin: string",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1136,7 +1136,7 @@
 											"top": 110,
 											"width": 167,
 											"height": 13,
-											"text": "+id: int",
+											"text": "-id: int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1153,7 +1153,7 @@
 											"top": 125,
 											"width": 167,
 											"height": 13,
-											"text": "+num_chambre: int",
+											"text": "-num_chambre: int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1170,7 +1170,7 @@
 											"top": 140,
 											"width": 167,
 											"height": 13,
-											"text": "+telephone: string",
+											"text": "-telephone: string",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1365,7 +1365,7 @@
 											"top": 350,
 											"width": 167,
 											"height": 13,
-											"text": "+id: int",
+											"text": "-id: int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1382,7 +1382,7 @@
 											"top": 365,
 											"width": 167,
 											"height": 13,
-											"text": "+nbre_lit: int",
+											"text": "-nbre_lit: int",
 											"horizontalAlignment": 0
 										},
 										{
@@ -1399,7 +1399,7 @@
 											"top": 380,
 											"width": 167,
 											"height": 13,
-											"text": "+tarif: double",
+											"text": "-tarif: double",
 											"horizontalAlignment": 0
 										}
 									],
@@ -1605,9 +1605,9 @@
 										"$ref": "AAAAAAGKo/2wpzB9dI8="
 									},
 									"font": "Arial;13;0",
-									"left": 243,
+									"left": 242,
 									"top": 428,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -1667,9 +1667,9 @@
 										"$ref": "AAAAAAGKo/2wpzB+z+A="
 									},
 									"font": "Arial;13;0",
-									"left": 183,
+									"left": 182,
 									"top": 481,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -1939,9 +1939,9 @@
 										"$ref": "AAAAAAGKo/5sWzE4QqU="
 									},
 									"font": "Arial;13;0",
-									"left": 667,
+									"left": 666,
 									"top": 183,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -2149,9 +2149,9 @@
 										"$ref": "AAAAAAGKo/9RwzIc18s="
 									},
 									"font": "Arial;13;0",
-									"left": 288,
+									"left": 287,
 									"top": 272,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 4.987112215358303,
 									"distance": 19.72308292331602,
@@ -2211,9 +2211,9 @@
 										"$ref": "AAAAAAGKo/9RwzIdBao="
 									},
 									"font": "Arial;13;0",
-									"left": 216,
+									"left": 215,
 									"top": 207,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.32998034381578256,
 									"distance": 34.88552708502482,
@@ -2482,9 +2482,9 @@
 										"$ref": "AAAAAAGKpAH4bTPsIgM="
 									},
 									"font": "Arial;13;0",
-									"left": 456,
+									"left": 455,
 									"top": 411,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -2692,9 +2692,9 @@
 										"$ref": "AAAAAAGKpAK+wDW6do4="
 									},
 									"font": "Arial;13;0",
-									"left": 571,
+									"left": 570,
 									"top": 165,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 25,
@@ -2754,9 +2754,9 @@
 										"$ref": "AAAAAAGKpAK+wDW7QzY="
 									},
 									"font": "Arial;13;0",
-									"left": 439,
+									"left": 438,
 									"top": 265,
-									"width": 19.5126953125,
+									"width": 20,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -2989,6 +2989,7 @@
 								"$ref": "AAAAAAGKnjFRZP/k4KQ="
 							},
 							"name": "id",
+							"visibility": "private",
 							"type": "int"
 						},
 						{
@@ -2998,6 +2999,7 @@
 								"$ref": "AAAAAAGKnjFRZP/k4KQ="
 							},
 							"name": "date_reservation",
+							"visibility": "private",
 							"type": "datetime"
 						},
 						{
@@ -3007,6 +3009,7 @@
 								"$ref": "AAAAAAGKnjFRZP/k4KQ="
 							},
 							"name": "date_arrivee",
+							"visibility": "private",
 							"type": "date"
 						},
 						{
@@ -3016,6 +3019,7 @@
 								"$ref": "AAAAAAGKnjFRZP/k4KQ="
 							},
 							"name": "date_depart",
+							"visibility": "private",
 							"type": "date"
 						},
 						{
@@ -3025,6 +3029,7 @@
 								"$ref": "AAAAAAGKnjFRZP/k4KQ="
 							},
 							"name": "nbre_nuit",
+							"visibility": "private",
 							"type": "int"
 						},
 						{
@@ -3034,6 +3039,7 @@
 								"$ref": "AAAAAAGKnjFRZP/k4KQ="
 							},
 							"name": "nbre_chambres",
+							"visibility": "private",
 							"type": "int"
 						}
 					]
@@ -3053,6 +3059,7 @@
 								"$ref": "AAAAAAGKnjFu4wAOKEU="
 							},
 							"name": "id",
+							"visibility": "private",
 							"type": "int"
 						},
 						{
@@ -3062,6 +3069,7 @@
 								"$ref": "AAAAAAGKnjFu4wAOKEU="
 							},
 							"name": "type",
+							"visibility": "private",
 							"type": "string"
 						},
 						{
@@ -3071,6 +3079,7 @@
 								"$ref": "AAAAAAGKnjFu4wAOKEU="
 							},
 							"name": "tarif",
+							"visibility": "private",
 							"type": "double"
 						}
 					]
@@ -3090,6 +3099,7 @@
 								"$ref": "AAAAAAGKnjGXtwA4Fe4="
 							},
 							"name": "id",
+							"visibility": "private",
 							"type": "int"
 						},
 						{
@@ -3099,6 +3109,7 @@
 								"$ref": "AAAAAAGKnjGXtwA4Fe4="
 							},
 							"name": "nom",
+							"visibility": "private",
 							"type": "string"
 						},
 						{
@@ -3108,6 +3119,7 @@
 								"$ref": "AAAAAAGKnjGXtwA4Fe4="
 							},
 							"name": "prenom",
+							"visibility": "private",
 							"type": "string"
 						},
 						{
@@ -3117,6 +3129,7 @@
 								"$ref": "AAAAAAGKnjGXtwA4Fe4="
 							},
 							"name": "telephone",
+							"visibility": "private",
 							"type": "string"
 						},
 						{
@@ -3126,6 +3139,7 @@
 								"$ref": "AAAAAAGKnjGXtwA4Fe4="
 							},
 							"name": "cin",
+							"visibility": "private",
 							"type": "string"
 						}
 					]
@@ -3178,6 +3192,7 @@
 								"$ref": "AAAAAAGKnjG1uwBi4LU="
 							},
 							"name": "id",
+							"visibility": "private",
 							"type": "int"
 						},
 						{
@@ -3187,6 +3202,7 @@
 								"$ref": "AAAAAAGKnjG1uwBi4LU="
 							},
 							"name": "num_chambre",
+							"visibility": "private",
 							"type": "int"
 						},
 						{
@@ -3196,6 +3212,7 @@
 								"$ref": "AAAAAAGKnjG1uwBi4LU="
 							},
 							"name": "telephone",
+							"visibility": "private",
 							"type": "string"
 						}
 					]
@@ -3248,6 +3265,7 @@
 								"$ref": "AAAAAAGKnjHQSwCMMvQ="
 							},
 							"name": "id",
+							"visibility": "private",
 							"type": "int"
 						},
 						{
@@ -3257,6 +3275,7 @@
 								"$ref": "AAAAAAGKnjHQSwCMMvQ="
 							},
 							"name": "nbre_lit",
+							"visibility": "private",
 							"type": "int"
 						},
 						{
@@ -3266,6 +3285,7 @@
 								"$ref": "AAAAAAGKnjHQSwCMMvQ="
 							},
 							"name": "tarif",
+							"visibility": "private",
 							"type": "double"
 						}
 					]
